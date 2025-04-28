@@ -7,15 +7,34 @@
 
 
 ## ⚙ 기술 스택
-
-<div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringSecurity.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringDataJPA.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Thymeleaf.png?raw=true" width="80">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80" alt="Java"/><br/>
+      <sub><b>Java 23</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80" alt="Spring Boot"/><br/>
+      <sub><b>Spring Boot 3.4.4</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringSecurity.png?raw=true" width="80" alt="Spring Security"/><br/>
+      <sub><b></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringDataJPA.png?raw=true" width="80" alt="Spring Data JPA"/><br/>
+      <sub><b></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80" alt="MySQL"/><br/>
+      <sub><b></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Thymeleaf.png?raw=true" width="80" alt="Thymeleaf"/><br/>
+      <sub><b></b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Infra
 
